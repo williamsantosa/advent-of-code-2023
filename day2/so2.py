@@ -2,7 +2,7 @@ import sys
 
 if __name__=="__main__":
     if len(sys.argv) != 2:
-        print("Invalid input size.\nEnter filename with extension as argument `python3 so1.py \"filename.ext\"`")
+        print("Invalid input size.\nEnter filename with extension as argument `python3 so2.py \"filename.ext\"`")
         exit()
 
     fileName = sys.argv[1]
